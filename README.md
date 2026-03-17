@@ -18,7 +18,9 @@ def fatorial(n: int) -> int:
 ## Fatorial Recursivo
 
 Fatorial Recursivo consiste na implementação de versão recursiva do algoritmo fatorial.
-Nesta abordagem utiliza-se recurso de chama da propria função para quebrar em problemas menores até o caso base (parada)
+Nesta abordagem utiliza-se recurso de chama da propria função para quebrar em problemas menores até o caso base (parada).
+
+* Exemplo
 ```python
 def fatorial_rec(n: int) -> int:
     if(n <= 1):
