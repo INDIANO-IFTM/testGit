@@ -28,3 +28,6 @@ def fatorial_rec(n: int) -> int:
     else:
         return n * fatorial_rec(n-1)
 ```
+## Authors:
+
+Henrique Almeida e Felipe Amadeu
