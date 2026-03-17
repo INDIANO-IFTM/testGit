@@ -27,4 +27,4 @@ def fatorial_rec(n: int) -> int:
         return 1
     else:
         return n * fatorial_rec(n-1)
-``
+```
